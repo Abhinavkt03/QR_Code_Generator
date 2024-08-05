@@ -1,0 +1,29 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.trailer-searchBox{
+    margin-bottom: 30px;
+}
+
+.trailer-input {
+    margin-right: 10px;
+    border-radius: 5px;
+    width: 9rem;
+    height: 1.5rem;
+}
+
+.trailer-button {
+    border-radius: 5px;
+    width: 4rem;
+    height: 2rem;
+    border: 1px green;
+    background-color: lightgreen;
+}
